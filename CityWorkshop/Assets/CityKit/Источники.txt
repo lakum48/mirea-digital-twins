@@ -1,0 +1,4 @@
+Модели зданий, деревьев и цветовая карта — Kenney, Starter Kit City Builder. Исходные модели преобразованы из glTF в OBJ с сохранением координат UV и нормалей.
+https://github.com/KenneyNL/Starter-Kit-City-Builder
+Лицензия моделей и текстуры — CC0 1.0 Universal.
+https://creativecommons.org/publicdomain/zero/1.0/
